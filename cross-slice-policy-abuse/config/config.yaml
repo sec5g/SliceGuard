@@ -1,0 +1,9 @@
+window_size: 60
+threshold: 3.0
+
+weights:
+  w_mod: 0.30
+  w_pcf: 0.25
+  w_qos: 0.25
+  w_slice: 0.15
+  w_intent: 0.05

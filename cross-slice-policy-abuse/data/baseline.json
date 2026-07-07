@@ -1,0 +1,6 @@
+{
+  "f_mod": {"mean": 1.0, "std": 0.5},
+  "f_pcf": {"mean": 2.0, "std": 1.0},
+  "delta_qos": {"mean": 10, "std": 5},
+  "f_slice": {"mean": 0.2, "std": 0.1}
+}
